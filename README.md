@@ -5,6 +5,11 @@
 * Utilizado pseudo-classes e pseudo-elementos para estilizar alguns de nossos elementos em determinadas circunstâncias.
 * Utilizado css flexbox e media queries para deixar o nosso layout responsivo para os diversos tamanhos de telas, desde celulares, até computadores.
 
+## Link do site
+👉 [Acesse link pela Vercel aqui](https://project-page-design-digital.vercel.app/)
+👉 [Acesse pelo GitHub Pages aqui](https://lucasgyn94.github.io/project-page-design-digital/)
+
+
 ## Layout Modo Claro
 ![image](https://github.com/Lucasgyn94/project-page-design-digital/assets/91031320/ebf1c4f1-c9e6-40c9-a83f-5b29a43463c3)
 ![image](https://github.com/Lucasgyn94/project-page-design-digital/assets/91031320/3a22d61f-2979-4d25-a23c-1047bca96048)
@@ -14,9 +19,6 @@
 ![image](https://github.com/Lucasgyn94/project-page-design-digital/assets/91031320/a6360205-c7d4-43a2-b444-abb8fbc33db2)
 ![image](https://github.com/Lucasgyn94/project-page-design-digital/assets/91031320/eec976a8-0428-4553-838b-b9fd2b113c65)
 ![image](https://github.com/Lucasgyn94/project-page-design-digital/assets/91031320/5555163c-243d-4bfa-a0ad-fc99d0d9dc4e)
-
-## Link do site
-https://project-page-design-digital.vercel.app/
 
 
 # Getting Started with Create React App
