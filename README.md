@@ -6,7 +6,7 @@
 * Utilizado css flexbox e media queries para deixar o nosso layout responsivo para os diversos tamanhos de telas, desde celulares, até computadores.
 
 ## Link do site
-👉 [Acesse link pela Vercel aqui](https://project-page-design-digital.vercel.app/)
+👉 [Acesse link pela Vercel aqui](https://project-page-design-digital.vercel.app/)</br>
 👉 [Acesse pelo GitHub Pages aqui](https://lucasgyn94.github.io/project-page-design-digital/)
 
 
